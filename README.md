@@ -1,2 +1,2 @@
 # epg-test
-local usa epg
+UK satellite epg 
